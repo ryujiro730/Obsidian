@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "032970f35ac3fdbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7a508b5fea88474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb07a73e567d3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "クオンツ仕様書/特徴量/velocity_acceleration_energy.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "velocity_acceleration_energy.md"
+            }
+          },
+          {
+            "id": "26772fa3c74ebdd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "要件定義.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "要件定義"
+            }
+          },
+          {
+            "id": "34570ecb01a46641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概要.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概要"
+            }
+          },
+          {
+            "id": "7f803359e16d8fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "漁師支援AI/漁師支援AIソフトウェア仕様書（仮）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "漁師支援AIソフトウェア仕様書（仮）"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0087f15ba4f3a38",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace296b819916f0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcacd2bce20ffafc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a63131baf945b3ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "bca7c19465b8ab6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "aee45e41571a00b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cabe49aa885d6ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a001d1c712ba1ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "パラメータ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "パラメータへのバックリンク"
+            }
+          },
+          {
+            "id": "9382934996534a46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "パラメータ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "パラメータからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "808fb8c7991fa647",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "57c222c6d288d173",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "パラメータ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "パラメータのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fcacd2bce20ffafc",
+  "lastOpenFiles": [
+    "React",
+    "退職してからの動き/退職してからの動き.md",
+    "漁師支援AI/漁師支援AIソフトウェア仕様書（仮）.md",
+    "漁師支援AI",
+    "検証ソフト/要件定義.md",
+    "退職してからの動き",
+    "無題のファイル.md",
+    "検証ソフト/概要.md",
+    "検証ソフト",
+    "クオンツ仕様書/エントリー戦略/STRATEGY_02.md.md",
+    "クオンツ仕様書/エントリー戦略/STRATEGY_01.md.md",
+    "クオンツ仕様書/DEAP/DEAP評価設計.md.md",
+    "クオンツ仕様書/DEAP/遺伝子構造.md.md",
+    "クオンツ仕様書/特徴量/momentum_zscore_volatility.md.md",
+    "クオンツ仕様書/特徴量/velocity_acceleration_energy.md.md",
+    "機能詳細",
+    "システム構成（外観）",
+    "検証ツール仕様書",
+    "クオンツ仕様書/データ設計.md",
+    "クオンツ仕様書/概要.md",
+    "クオンツ仕様書/特徴量/contrarian_and_similarity.md.md",
+    "クオンツ仕様書/特徴量/stats_and_flags.md.md",
+    "クオンツ仕様書/特徴量/candlestick_structure.md.md",
+    "クオンツ仕様書/特徴量/fft_hurst_fib.md.md",
+    "クオンツ仕様書/ラベル設計/時間制（10分後利益）型.md",
+    "クオンツ仕様書/ラベル設計/実装設計（共通）.md",
+    "クオンツ仕様書/ラベル設計/固定pips型.md",
+    "クオンツ仕様書/ラベル設計/TP_SLベース.md",
+    "クオンツ仕様書/ラベル設計/FAISS未来分類型.md",
+    "クオンツ仕様書/評価関数",
+    "クオンツ仕様書/特徴量",
+    "クオンツ仕様書/ラベル設計",
+    "クオンツ仕様書/コード構成.md",
+    "クオンツ仕様書/エントリー戦略",
+    "iCloudDrive/クオンツ仕様書/特徴量/velocity_acceleration_energy.md.md",
+    "iCloudDrive/クオンツ仕様書/特徴量/stats_and_flags.md.md"
+  ]
+}
