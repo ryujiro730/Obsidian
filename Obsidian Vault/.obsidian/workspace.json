@@ -8,63 +8,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ceb07a73e567d3b0",
+            "id": "92300495d0579eaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "クオンツ仕様書/特徴量/velocity_acceleration_energy.md.md",
+                "file": "開発用テンプレ/React + Tailwind + shadcn テンプレ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "velocity_acceleration_energy.md"
+              "title": "React + Tailwind + shadcn テンプレ"
             }
           },
           {
-            "id": "26772fa3c74ebdd7",
+            "id": "e3f8e781a62d32cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "要件定義.md",
+                "file": "クリーニング代拒否.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "要件定義"
+              "title": "クリーニング代拒否"
             }
           },
           {
-            "id": "34570ecb01a46641",
+            "id": "a50a2f04001d3e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概要.md",
+                "file": "開発用テンプレ/shadcnコンポーネント一括追加テンプレート.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概要"
+              "title": "shadcnコンポーネント一括追加テンプレート"
             }
           },
           {
-            "id": "7f803359e16d8fdc",
+            "id": "b05e8f391b17660d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "漁師支援AI/漁師支援AIソフトウェア仕様書（仮）.md",
+                "file": "開発用テンプレ/shadcnコンポーネント一括追加テンプレート.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "漁師支援AIソフトウェア仕様書（仮）"
+              "title": "shadcnコンポーネント一括追加テンプレート"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,43 +210,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcacd2bce20ffafc",
+  "active": "92300495d0579eaa",
   "lastOpenFiles": [
-    "React",
-    "退職してからの動き/退職してからの動き.md",
-    "漁師支援AI/漁師支援AIソフトウェア仕様書（仮）.md",
-    "漁師支援AI",
-    "検証ソフト/要件定義.md",
-    "退職してからの動き",
+    "開発用テンプレ/shadcnコンポーネント一括追加テンプレート.md",
+    "開発用テンプレ/React + Tailwind + shadcn テンプレ.md",
+    "一日の動き.md",
+    "クリーニング代拒否.md",
+    "GPTならこうする.md",
+    "バガボンド.md",
+    "開発用テンプレ",
+    "Kaggle/NeurIPS - Open Polymer Prediction 2025.md",
+    "ソフトウェアアイディア/仮想通貨を利用した投票サービス.md",
+    "Kaggle",
     "無題のファイル.md",
-    "検証ソフト/概要.md",
-    "検証ソフト",
-    "クオンツ仕様書/エントリー戦略/STRATEGY_02.md.md",
-    "クオンツ仕様書/エントリー戦略/STRATEGY_01.md.md",
-    "クオンツ仕様書/DEAP/DEAP評価設計.md.md",
-    "クオンツ仕様書/DEAP/遺伝子構造.md.md",
-    "クオンツ仕様書/特徴量/momentum_zscore_volatility.md.md",
-    "クオンツ仕様書/特徴量/velocity_acceleration_energy.md.md",
-    "機能詳細",
-    "システム構成（外観）",
-    "検証ツール仕様書",
-    "クオンツ仕様書/データ設計.md",
-    "クオンツ仕様書/概要.md",
-    "クオンツ仕様書/特徴量/contrarian_and_similarity.md.md",
-    "クオンツ仕様書/特徴量/stats_and_flags.md.md",
-    "クオンツ仕様書/特徴量/candlestick_structure.md.md",
-    "クオンツ仕様書/特徴量/fft_hurst_fib.md.md",
-    "クオンツ仕様書/ラベル設計/時間制（10分後利益）型.md",
-    "クオンツ仕様書/ラベル設計/実装設計（共通）.md",
-    "クオンツ仕様書/ラベル設計/固定pips型.md",
-    "クオンツ仕様書/ラベル設計/TP_SLベース.md",
-    "クオンツ仕様書/ラベル設計/FAISS未来分類型.md",
-    "クオンツ仕様書/評価関数",
-    "クオンツ仕様書/特徴量",
-    "クオンツ仕様書/ラベル設計",
-    "クオンツ仕様書/コード構成.md",
-    "クオンツ仕様書/エントリー戦略",
-    "iCloudDrive/クオンツ仕様書/特徴量/velocity_acceleration_energy.md.md",
-    "iCloudDrive/クオンツ仕様書/特徴量/stats_and_flags.md.md"
+    "React/概念・単語/DOM.md",
+    "React/概念・単語/useRef.md",
+    "React/概念・単語/current.md",
+    "React/概念・単語/useMemo.md",
+    "React/概念・単語/await.md",
+    "React/概念・単語/set.md",
+    "React/概念・単語/then.md",
+    "React/概念・単語/cache.md",
+    "React/詰まりポイント特化/処理される順番.md",
+    "React/概念・単語/forwardRef.md",
+    "React/概念・単語/hook.md",
+    "React/概念・単語/useState.md",
+    "React/概念・単語/親.md",
+    "React/概念・単語/component.md",
+    "退職してからの動き/退職してからの動き.md",
+    "ソフトウェアアイディア/一万時間の法則タイマー.md",
+    "ソフトウェアアイディア/広告の回し方.md",
+    "ソフトウェアアイディア",
+    "React/詰まりポイント特化",
+    "React/応用・構成レベル",
+    "React/手を動かす基礎実装",
+    "React/概念・単語",
+    "React",
+    "漁師支援AI",
+    "退職してからの動き"
   ]
 }

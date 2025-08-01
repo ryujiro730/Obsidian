@@ -8,17 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae8e41168185ab29",
+            "id": "56fb8e97e2f230fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/クオンツ仕様書/コード構成.md",
+                "file": "Obsidian Vault/BacktestTool/エフェクト系/シャドウ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "コード構成"
+              "title": "シャドウ"
+            }
+          },
+          {
+            "id": "5e505f2f2b785b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/BacktestTool/ビジネス設計/LTV戦略/リファラル導線.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "リファラル導線"
+            }
+          },
+          {
+            "id": "46c12b2b8ff95cd4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -168,13 +192,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8e41168185ab29",
+  "active": "56fb8e97e2f230fe",
   "lastOpenFiles": [
-    "Obsidian Vault/クオンツ仕様書/概要.md",
-    "Obsidian Vault/クオンツ仕様書/コード構成.md",
-    "Obsidian Vault/クオンツ仕様書/データ設計.md",
-    "Obsidian Vault/概要.md",
-    "Obsidian Vault/無題のファイル.md",
-    "Obsidian Vault/要件定義.md"
+    "Obsidian Vault/BacktestTool/エフェクト系/UIアニメーション.md",
+    "Obsidian Vault/BacktestTool/ビジネス設計/LTV戦略/ユーザー保存データのクラウド同期.md",
+    "Obsidian Vault/BacktestTool/エフェクト系/シャドウ.md",
+    "Obsidian Vault/BacktestTool/エフェクト系",
+    "Obsidian Vault/開発用テンプレ/Expo + React Native + TypeScript 開発テンプレ.md",
+    "Obsidian Vault/退職してからの動き/退職してからの動き.md",
+    "Obsidian Vault/BacktestTool/タスクリスト/UI.md",
+    "Obsidian Vault/BacktestTool/タスクリスト/タスクリスト（マスター）.md",
+    "Obsidian Vault/BacktestTool/タスクリスト",
+    "Obsidian Vault/GPTならこうする.md",
+    "Obsidian Vault/BacktestTool/ビジネス設計/KPI管理/CVR.md",
+    "Obsidian Vault/BacktestTool/全体概要.md",
+    "Obsidian Vault/検証ソフト/ビジネス設計/KPI管理/検証回数と継続率の相関分析.md",
+    "Obsidian Vault/BacktestTool/ビジネス設計/LTV戦略/リファラル導線.md",
+    "Obsidian Vault/BacktestTool/ビジネス設計/LTV戦略/定期的な機能追加とアップグレード通知.md",
+    "Obsidian Vault/BacktestTool/ビジネス設計/LTV戦略/フォロー、フォロワー、いいね.md",
+    "Obsidian Vault/BacktestTool/ビジネス設計/料金体系とか収支.md",
+    "Obsidian Vault/BacktestTool/要件定義.md",
+    "Obsidian Vault/BacktestTool/機能設計/コア機能/コミュニティ機能.md",
+    "Obsidian Vault/クオンツ仕様書/エントリー戦略/STRATEGY_02.md.md",
+    "Obsidian Vault/クオンツ仕様書/エントリー戦略/STRATEGY_01.md.md",
+    "Obsidian Vault/クオンツ仕様書/DEAP/遺伝子構造.md.md",
+    "Obsidian Vault/クオンツ仕様書/DEAP/DEAP評価設計.md.md",
+    "Obsidian Vault/React/応用・構成レベル/asyncの使い方.md",
+    "Obsidian Vault/React/応用・構成レベル/constの応用的な書き方。.md",
+    "Obsidian Vault/React/応用・構成レベル/Reactを作る流れ.md",
+    "Obsidian Vault/React/応用・構成レベル/setとprevの使い分け.md",
+    "Obsidian Vault/React/応用・構成レベル/DOMに渡すための関数＋型のセットアップ（ref).md",
+    "Obsidian Vault/BacktestTool/Pasted image 20250801155043.png",
+    "Untitled",
+    "Obsidian Vault/検証ソフト/ビジネス設計/ターゲット",
+    "Obsidian Vault/BacktestTool/機能設計",
+    "Obsidian Vault/BacktestTool/ビジネス設計/KPI管理",
+    "Obsidian Vault/BacktestTool/ビジネス設計/LTV戦略",
+    "Obsidian Vault/BacktestTool/ビジネス設計/集客・販促",
+    "Obsidian Vault/検証ソフト/ビジネス設計/プラン設計",
+    "Obsidian Vault/BacktestTool/ビジネス設計"
   ]
 }
